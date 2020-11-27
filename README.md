@@ -6,4 +6,4 @@ As we know that marking the ore was conventionally carried out by using markers,
 
 This code provide image processing using unsupervised learning which mark the ore on the core sample fast and accurate.
 
-![alt text](https://github.com/risyadrzky/Automatic-Rock-Core-Sample-Marker/blob/main/figures/Figure1-(Adwo-StockAdobe).jpeg)
+![alt text](https://github.com/risyadrzky/Automatic-Rock-Core-Sample-Marker/blob/main/figures/Figure2.gif)
